@@ -2,8 +2,9 @@
   color: aquamarine
 }
 .test__title{
-
+  
 }
 .test__rink{
   color: red;
+  text-decoration: none;
 }
