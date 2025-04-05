@@ -8,19 +8,31 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>test2</title>
 　<link rel="stylesheet" href="test2.css">
+　<link rel="stylesheet" href="test2-2.html">
+  <link rel="stylesheet" href="sanitize.css">
 </head>
 
   <body>
   
   <header class="test__header">
-    <h2>テストだよ</h2>
+    <h2>テスト</h2>
   </header>
 
     <main>
       <div class="test__title"> 
-        <a class="test__rink"  href="#">テストリンク</a>
+          <form class="test__button-form" action="test2-2.html" method="get">
+            <div class="search-form__item">
+              <select class="search-form__item-select" name="city">
+                    <option value="シドニー">シドニー</option>
+                    <option value="上海">上海</option>
+                    <option value="モスクワ">モスクワ</option>
+                    <option value="ロンドン">ロンドン</option>
+                    <option value="ヨハネスブルグ">ヨハネスブルグ</option>
+                    <option value="ニューヨーク">ニューヨーク</option>
+                  </select>
+                </div>
  
-        <form class="test__button-form" action="#" method="get">
+        
         <button class="test__button" type="submit" name="" value="">検索</button>
         </form>
 

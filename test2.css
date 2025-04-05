@@ -25,9 +25,24 @@
   cursor: pointer;
   margin: 30px 30px
 }
-.text,.text2,.text3{
+.text2,.text3{
   border-style: solid;
   font-size: 50px;
   padding: 20px;
   background: blue;
+  margin: 30px;
+}
+.text{
+  padding: 20px 40px;
+  border-style: solid;
+  font-size: 50px;
+  background: blue;
+  margin: 30px;
+}
+.search-form__item{
+  padding: 30px;
+}
+.search-form__item-select{
+  padding: 0 50px;
+  font-family: serif;
 }
