@@ -1,10 +1,24 @@
 .test__header{
-  color: aquamarine
+  color: black;
+  font-style: italic;
+  margin-left: 50px;
 }
 .test__title{
-  
+  display: flex;
+  justify-content: center;
 }
 .test__rink{
-  color: red;
+  color: black;
   text-decoration: none;
+  font-size: large;
+}
+
+.test__button-form{
+  display: flex;
+  justify-content: center;
+}
+
+.test__button{
+  cursor: pointer;
+  margin-left: 20px;
 }
