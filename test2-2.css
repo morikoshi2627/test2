@@ -1,0 +1,77 @@
+.test__header {
+  color: black;
+  font-style: italic;
+  margin-left: 200px;
+  font-size: 30px;
+}
+
+.test2__header-title{
+  text-decoration: none;
+  color: black;
+}
+
+.artist__img1{
+  width: 320px;
+  height: 400px;
+}
+
+.artist__img2{
+  width: 320px;
+  height: 400px;
+}
+
+.artist__img3{
+  width: 320px;
+  height: 400px;
+}
+
+.artist__img4{
+  width: 320px;
+  height: 400px;
+}
+
+.artist__img5{
+  width: 320px;
+  height: 400px;
+}
+
+.artist__img6{
+  width: 320px;
+  height: 400px;
+}
+
+.text,
+.text2,
+.text3 {
+  border-style: solid;
+  font-size: 50px;
+  padding: 20px;
+  background: gainsboro;
+  margin: 30px;
+}
+
+.text4,
+.text5,
+.text6 {
+  border-style: solid;
+  font-size: 50px;
+  padding: 20px;
+  background: gainsboro;
+  margin: 30px;
+
+}
+
+.text__gloop {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5% 15%;
+}
+
+.search-form__item {
+  padding: 30px;
+}
+
+.search-form__item-select {
+  padding: 0 50px;
+  font-family: serif;
+}
